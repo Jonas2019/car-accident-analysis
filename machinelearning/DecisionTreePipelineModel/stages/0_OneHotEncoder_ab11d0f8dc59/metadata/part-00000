@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1639078521781,"sparkVersion":"3.0.1","uid":"OneHotEncoder_ab11d0f8dc59","paramMap":{"inputCols":["Month","DayofWeek","Start_hour"],"outputCols":["MonthVec","DayofWeekVec","Start_hourVec"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"OneHotEncoder_ab11d0f8dc59__output","dropLast":true}}
