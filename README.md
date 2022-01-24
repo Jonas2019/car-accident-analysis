@@ -1,4 +1,4 @@
-Our dataset is about US Accident, The main datasets we use is US Accidents (2016 - 2020), which is offered as a CSV file from Kaggle(https://www.kaggle.com/sobhanmoosavi/us-accidents). The dataset covers traffic accidents in 49 states(excluding Alaska) of the US with 47 distinctive columns and we hope to predict severity based on the data.
+This is a repository for all of the codes of our CMPT733 term project, and our team members are(alphabetic order): Huiyi Zou, Jiahe Wang, Shilin Wang, Zhi Zheng. Our dataset is about US Accident, The main datasets we use is US Accidents (2016 - 2020), which is offered as a CSV file from Kaggle(https://www.kaggle.com/sobhanmoosavi/us-accidents). The dataset covers traffic accidents in 49 states(excluding Alaska) of the US with 47 distinctive columns and we hope to predict severity based on the data.
 
 Here is a brief overview of the structure of the files:
 
