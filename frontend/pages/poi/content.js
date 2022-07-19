@@ -20,7 +20,10 @@ export default function Content() {
 
         <div className="px-6 py-4">
           <div className="font-bold text-xl mb-2">POI Count and Proportion</div>
-          <p className="text-gray-700 text-base">the number and percentage of points of interest and no points of interest near the accident locations</p>
+          <p className="text-gray-700 text-base">
+            the number and percentage of points of interest and no points of
+            interest near the accident locations
+          </p>
         </div>
       </div>
 
